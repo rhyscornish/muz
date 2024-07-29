@@ -6,3 +6,7 @@ y <- 40 * 2 + rnorm(10, 0, 5)
 
 # Plot 'x' and 'y'
 plot(x, y, main = "Plot of x and y", xlab = "x", ylab = "y")
+
+# Summary 
+summary(x)
+
